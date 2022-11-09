@@ -2,7 +2,7 @@
 
 ## Hi, I am Khushi Asawa! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Khushi Asawa, currently studying in Pune Institute of Computer Technology pursuing a Bachelor's Degree(B.E.) in Computer Engineering. I am a confident speaker and am skilled in Blockchain Research. I am passionate about learning new technologies. I am always open to collaborating on projects and innovative ideas. <br></br>Find out more about me & feel free to connect with me here:
+I am Khushi Asawa, currently studying in University of california San Diego pursuing a Master's Degree(MS) in Computer Science and Engineering. I am a confident speaker and am skilled in Blockchain Research. I am passionate about learning new technologies. I am always open to collaborating on projects and innovative ideas. <br></br>Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khushi%20Asawa-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-asawa-300616187/)
 [![Gmail Badge](https://img.shields.io/badge/-khushiasawa31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:khushiasawa31@gmail.com)
