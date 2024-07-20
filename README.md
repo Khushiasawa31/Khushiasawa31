@@ -6,7 +6,7 @@ I am Khushi Asawa, currently studying in University of california San Diego purs
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khushi%20Asawa-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-asawa-300616187/)
 [![Gmail Badge](https://img.shields.io/badge/-khushiasawa31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:khushiasawa31@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/Resume-Khushi%20Asawa-blue?labelColor=grey)](https://drive.google.com/file/d/1BIKe2AOtrjk_-2ASd1k4Pozg9eJ6qx91/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/Resume-Khushi%20Asawa-blue?labelColor=grey)](https://drive.google.com/file/d/1m-DmbfttOctY7CHsaKbXv7GinvykJ4PR/view?usp=sharing)
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white)](https://divyank00.github.io/)
  -->
 ## ⚡ Technologies
